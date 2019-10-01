@@ -1,2 +1,2 @@
 # vfonts
-decrypted vfonts from /resource folder
+decrypted vfont files to truetype
